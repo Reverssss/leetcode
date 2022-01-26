@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FibonacciNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FibonacciNumber.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com509" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FibonacciNumber.java" />
+              <option name="titleSlug" value="fibonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java">
           <value>
             <LeetcodeEditor>
@@ -88,6 +99,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays.java" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/NThTribonacciNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/NThTribonacciNumber.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1137" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/NThTribonacciNumber.java" />
+              <option name="titleSlug" value="n-th-tribonacci-number" />
             </LeetcodeEditor>
           </value>
         </entry>
