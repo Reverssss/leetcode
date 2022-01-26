@@ -17,10 +17,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/4.MedianOfTwoSortedArrays.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays4.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays.md" />
               <option name="frontendQuestionId" value="leetcode-cn.com4" />
               <option name="host" value="leetcode-cn.com" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays4.java" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays.java" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
             </LeetcodeEditor>
           </value>
@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/DetectSquares.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/DetectSquares.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2013" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/DetectSquares.java" />
+              <option name="titleSlug" value="detect-squares" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java">
           <value>
             <LeetcodeEditor>
@@ -61,10 +72,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays4.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays.md" />
               <option name="frontendQuestionId" value="leetcode-cn.com4" />
               <option name="host" value="leetcode-cn.com" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays4.java" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays.java" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
             </LeetcodeEditor>
           </value>
@@ -72,10 +83,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays4.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays4.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays.md" />
               <option name="frontendQuestionId" value="leetcode-cn.com4" />
               <option name="host" value="leetcode-cn.com" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays4.java" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MedianOfTwoSortedArrays.java" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
             </LeetcodeEditor>
           </value>
