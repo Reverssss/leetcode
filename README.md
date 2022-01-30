@@ -10,13 +10,16 @@
 |  69  |         sqrt(x)         |                   sqrtx                   |                   |
 |  70  |          爬楼梯          |               ClimbingStairs               |     可以简化成斐波拉契     |
 |  88  |     合并两个有序数组     |              MergeSortedArray              |                   |
+|118|杨辉三角|PascalsTriangle|数组|简单|
 |198|打家劫舍|HouseRobber|动态规划|简单|
 |213|打家劫舍 II|HouseRobberIi|难|
 | 217 |       存在重复元素       |             ContainsDuplicate             |       数据结构        |
 |350|两个数组的交集 II|IntersectionOfTwoArraysIi|
 | 509 |        斐波那契数        |              FibonacciNumber              |       动态规划        |
+|566|重塑矩阵|ReshapeTheMatrix|数据结构| 简单|
 |740|删除并获得点数|DeleteAndEarn|动态规划|难|
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
+|884|两句话中的不常见单词|UncommonWordsFromTwoSentences|哈希表| 简单|
 | 1137 |    第 N 个泰波那契数    |            NThTribonacciNumber            |       动态规划        |
 |121|买卖股票的最佳时机|BestTimeToBuyAndSellStock| 只交易一次,找出极小值,再找极大值 |
 | 1688 |     比赛中的配对次数     |         tchesInToCountOfMaurnament         |      简单的数学计算      |
