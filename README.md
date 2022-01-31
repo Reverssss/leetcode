@@ -6,9 +6,11 @@
 |  1  |         两数之和         |                   TwoSum                   |        map        |
 |  3  |   无重复字符的最长子串   | LongestSubstringWithoutRepeatingCharacters |                   |
 |  4  | 寻找两个正序数组的中位数 |          MedianOfTwoSortedArrays          |                   |
+|36|有效的数独|ValidSudoku|数组|简单|
 |  53  |       最大子数组和       |              MaximumSubarray              |       动态规划        |
 |  69  |         sqrt(x)         |                   sqrtx                   |                   |
 |  70  |          爬楼梯          |               ClimbingStairs               |     可以简化成斐波拉契     |
+|73|矩阵置零|SetMatrixZeroes|数组|简单|
 |  88  |     合并两个有序数组     |              MergeSortedArray              |                   |
 |118|杨辉三角|PascalsTriangle|数组|简单|
 |121|买卖股票的最佳时机|BestTimeToBuyAndSellStock| 只交易一次,找出极小值,再找极大值 |
