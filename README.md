@@ -12,12 +12,14 @@
 |  69  |         sqrt(x)         |                   sqrtx                   |                   |
 |  70  |          爬楼梯          |               ClimbingStairs               |     可以简化成斐波拉契     |
 |73|矩阵置零|SetMatrixZeroes|        数组         |简单|
+|83|删除排序链表中的重复元素|RemoveDuplicatesFromSortedList|单链表遍历|简单|
 |  88  |     合并两个有序数组     |              MergeSortedArray              |                   |
 |118|杨辉三角|PascalsTriangle|        数组         |简单|
 |141|环形链表|LinkedListCycle|    判断循环链表,快慢指针    |简单|
 |121|买卖股票的最佳时机|BestTimeToBuyAndSellStock| 只交易一次,找出极小值,再找极大值 |
 |198|打家劫舍|HouseRobber|       动态规划        |简单|
 |203|移除链表元素|RemoveLinkedListElements|单链表递归|不会|
+|206|反转链表|ReverseLinkedList|单链表反转|简单|
 |213|打家劫舍 II|HouseRobberIi|         难         |
 | 217 |       存在重复元素       |             ContainsDuplicate             |       数据结构        |
 |242|有效的字母异位词|ValidAnagram|    字符串,HashMap    |简单|
@@ -31,6 +33,7 @@
 |884|两句话中的不常见单词|UncommonWordsFromTwoSentences|        哈希表        | 简单|
 | 1137 |    第 N 个泰波那契数    |            NThTribonacciNumber            |       动态规划        |
 |1342|将数字变成 0 的操作次数|NumberOfStepsToReduceANumberToZero|        模拟         |简单|
+|1414|和为 K 的最少斐波那契数字数目|FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK|求斐波拉契|简单|
 | 1688 |     比赛中的配对次数     |         tchesInToCountOfMaurnament         |      简单的数学计算      |
 |1763|最长的美好子字符串|LongestNiceSubstring|        位运算        |难|
 |1765|地图中的最高点|MapOfHighestPeak|   BFS,DFS,动态规划    |
