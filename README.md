@@ -36,6 +36,7 @@
 |740|删除并获得点数|DeleteAndEarn|       动态规划        |  难  |
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
 |884|两句话中的不常见单词|UncommonWordsFromTwoSentences|        哈希表        | 简单  |
+|1001|网格照明|GridIllumination|哈希表,线映射|简单|
 | 1137 |    第 N 个泰波那契数    |            NThTribonacciNumber            |       动态规划        |
 |1219|黄金矿工|PathWithMaximumGold|回溯,dfs|  难  |
 |1342|将数字变成 0 的操作次数|NumberOfStepsToReduceANumberToZero|        模拟         | 简单  |
