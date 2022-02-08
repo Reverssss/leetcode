@@ -47,5 +47,6 @@
 |1765|地图中的最高点|MapOfHighestPeak|   BFS,DFS,动态规划    |
 | 1996 |    游戏中弱角色的数量    |     TheNumberOfWeakCharactersInTheGame     |        桶排         |
 |2000|反转单词前缀|ReversePrefixOfWord|        字符串        | 简单  |
+|2006|差的绝对值为 K 的数对数目|CountNumberOfPairsWithAbsoluteDifferenceK|模拟,哈希表|简单|
 | 2013 |        检测正方形        |                DetectSquar                |      map的应用       |
 | 2047 |    句子中的有效单词数    |       NumberOfValidWordsInASentence       |                   |
