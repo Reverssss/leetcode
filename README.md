@@ -37,7 +37,9 @@
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
 |884|两句话中的不常见单词|UncommonWordsFromTwoSentences|        哈希表        | 简单  |
 |1001|网格照明|GridIllumination|      哈希表,线映射      |简单|
+|1020|飞地的数量|NumberOfEnclaves|     深度优先,二维数组     |简单|
 | 1137 |    第 N 个泰波那契数    |            NThTribonacciNumber            |       动态规划        |
+|1189|“气球” 的最大数量|MaximumNumberOfBalloons|模拟|简单|
 |1219|黄金矿工|PathWithMaximumGold|      回溯,dfs       |  难  |
 |1342|将数字变成 0 的操作次数|NumberOfStepsToReduceANumberToZero|        模拟         | 简单  |
 |1414|和为 K 的最少斐波那契数字数目|FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK|       求斐波拉契       | 简单  |
