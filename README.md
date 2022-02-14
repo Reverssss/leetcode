@@ -32,6 +32,7 @@
 |383|赎金信|RansomNote|      字符串,字典       | 简单  |
 |387|字符串中的第一个唯一字符|FirstUniqueCharacterInAString|      字符串,字典       | 简单  |
 | 509 |        斐波那契数        |              FibonacciNumber              |       动态规划        |
+|540|有序数组中的单一元素|SingleElementInASortedArray|对分|简单|
 |566|重塑矩阵|ReshapeTheMatrix|       数据结构        | 简单  |
 |740|删除并获得点数|DeleteAndEarn|       动态规划        |  难  |
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
@@ -42,6 +43,7 @@
 |1189|“气球” 的最大数量|MaximumNumberOfBalloons|模拟|简单|
 |1219|黄金矿工|PathWithMaximumGold|      回溯,dfs       |  难  |
 |1342|将数字变成 0 的操作次数|NumberOfStepsToReduceANumberToZero|        模拟         | 简单  |
+|1380|矩阵中的幸运数|LuckyNumbersInAMatrix|行列映射|简单|
 |1414|和为 K 的最少斐波那契数字数目|FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK|       求斐波拉契       | 简单  |
 |1447|最简分数|SimplifiedFractions|        模拟         |简单|
 | 1688 |     比赛中的配对次数     |         tchesInToCountOfMaurnament         |      简单的数学计算      |
