@@ -38,6 +38,7 @@
 |740|删除并获得点数|DeleteAndEarn|       动态规划        |     难      |
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
 |884|两句话中的不常见单词|UncommonWordsFromTwoSentences|        哈希表        |     简单     |
+|969|煎饼排序|PancakeSorting|贪心,数组|简单|
 |1001|网格照明|GridIllumination|      哈希表,线映射      |     简单     |
 |1020|飞地的数量|NumberOfEnclaves|     深度优先,二维数组     |     简单     |
 | 1137 |    第 N 个泰波那契数    |            NThTribonacciNumber            |       动态规划        |
