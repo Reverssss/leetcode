@@ -35,6 +35,7 @@
 |540|有序数组中的单一元素|SingleElementInASortedArray|对分|     简单     |
 |566|重塑矩阵|ReshapeTheMatrix|       数据结构        |     简单     |
 |688|骑士在棋盘上的概率|KnightProbabilityInChessboard|动态规划| 一开始迭代超时换方法 |
+|717|1比特与2比特字符|OneBitAnd2BitCharacters|数组,模拟|简单|
 |740|删除并获得点数|DeleteAndEarn|       动态规划        |     难      |
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
 |884|两句话中的不常见单词|UncommonWordsFromTwoSentences|        哈希表        |     简单     |
