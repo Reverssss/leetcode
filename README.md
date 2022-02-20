@@ -8,6 +8,7 @@
 |  4  | 寻找两个正序数组的中位数 |          MedianOfTwoSortedArrays          |                   |
 |20|有效的括号|ValidParentheses|       栈配对符号       |     简单     |
 |21|合并两个有序链表|MergeTwoSortedLists|        递归         |     不会     |
+|35|搜索插入位置|SearchInsertPosition|二分|简单|
 |36|有效的数独|ValidSudoku|        数组         |     简单     |
 |  53  |       最大子数组和       |              MaximumSubarray              |       动态规划        |
 |  69  |         sqrt(x)         |                   sqrtx                   |                   |
@@ -28,6 +29,7 @@
 | 217 |       存在重复元素       |             ContainsDuplicate             |       数据结构        |
 |232|用栈实现队列|ImplementQueueUsingStacks|     用两个栈实现队列      |     简单     |
 |242|有效的字母异位词|ValidAnagram|    字符串,HashMap    |     简单     |
+|278|第一个错误的版本|FirstBadVersion|二分|简单|
 |350|两个数组的交集 II|IntersectionOfTwoArraysIi|
 |383|赎金信|RansomNote|      字符串,字典       |     简单     |
 |387|字符串中的第一个唯一字符|FirstUniqueCharacterInAString|      字符串,字典       |     简单     |
@@ -35,6 +37,7 @@
 |540|有序数组中的单一元素|SingleElementInASortedArray|对分|     简单     |
 |566|重塑矩阵|ReshapeTheMatrix|       数据结构        |     简单     |
 |688|骑士在棋盘上的概率|KnightProbabilityInChessboard|动态规划| 一开始迭代超时换方法 |
+|704|二分查找|BinarySearch|二分|简单|
 |717|1比特与2比特字符|OneBitAnd2BitCharacters|数组,模拟|简单|
 |740|删除并获得点数|DeleteAndEarn|       动态规划        |     难      |
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
