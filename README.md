@@ -22,6 +22,7 @@
 |141|环形链表|LinkedListCycle|    判断循环链表,快慢指针    |     简单     |
 |144|二叉树的前序遍历|BinaryTreePreorderTraversal|      前序遍历二叉树      |     背      |
 |145|二叉树的后序遍历|BinaryTreePostorderTraversal|      后序遍历二叉树      |     背      |
+|189|轮转数组|RotateArray|数组,翻转|简单
 |198|打家劫舍|HouseRobber|       动态规划        |     简单     |
 |203|移除链表元素|RemoveLinkedListElements|       单链表递归       |     不会     |
 |206|反转链表|ReverseLinkedList|       单链表反转       |     简单     |
@@ -41,8 +42,10 @@
 |717|1比特与2比特字符|OneBitAnd2BitCharacters|数组,模拟|简单|
 |740|删除并获得点数|DeleteAndEarn|       动态规划        |     难      |
 | 746 |    使用最小花费爬楼梯    |           MinCostClimbingStairs           |       动态规划        |
+|838|推多米诺|PushDominoes|字符串,双指针|中等|
 |884|两句话中的不常见单词|UncommonWordsFromTwoSentences|        哈希表        |     简单     |
 |969|煎饼排序|PancakeSorting|贪心,数组|简单|
+|977|有序数组的平方|SquaresOfASortedArray|双指针,排序|简单|
 |1001|网格照明|GridIllumination|      哈希表,线映射      |     简单     |
 |1020|飞地的数量|NumberOfEnclaves|     深度优先,二维数组     |     简单     |
 | 1137 |    第 N 个泰波那契数    |            NThTribonacciNumber            |       动态规划        |
