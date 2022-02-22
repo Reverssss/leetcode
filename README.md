@@ -16,11 +16,13 @@
 |83|删除排序链表中的重复元素|RemoveDuplicatesFromSortedList|       单链表遍历       |     简单     |
 |  88  |     合并两个有序数组     |              MergeSortedArray              |                   |
 |94|二叉树的中序遍历|BinaryTreeInorderTraversal|      中序遍历二叉树      |     背      |
+|102|二叉树的层序遍历|BinaryTreeLevelOrderTraversal|层序遍历|背|
 |118|杨辉三角|PascalsTriangle|        数组         |     简单     |
 |121|买卖股票的最佳时机|BestTimeToBuyAndSellStock| 只交易一次,找出极小值,再找极大值 |
 |141|环形链表|LinkedListCycle|    判断循环链表,快慢指针    |     简单     |
 |144|二叉树的前序遍历|BinaryTreePreorderTraversal|      前序遍历二叉树      |     背      |
 |145|二叉树的后序遍历|BinaryTreePostorderTraversal|      后序遍历二叉树      |     背      |
+|167|两数之和 II - 输入有序数组|TwoSumIiInputArrayIsSorted|有序数组|简单|
 |198|打家劫舍|HouseRobber|       动态规划        |     简单     |
 |203|移除链表元素|RemoveLinkedListElements|       单链表递归       |     不会     |
 |206|反转链表|ReverseLinkedList|       单链表反转       |     简单     |
@@ -28,6 +30,7 @@
 | 217 |       存在重复元素       |             ContainsDuplicate             |       数据结构        |
 |232|用栈实现队列|ImplementQueueUsingStacks|     用两个栈实现队列      |     简单     |
 |242|有效的字母异位词|ValidAnagram|    字符串,HashMap    |     简单     |
+|283|移动零|MoveZeroes|数组,双指针|简单|
 |350|两个数组的交集 II|IntersectionOfTwoArraysIi|
 |383|赎金信|RansomNote|      字符串,字典       |     简单     |
 |387|字符串中的第一个唯一字符|FirstUniqueCharacterInAString|      字符串,字典       |     简单     |
