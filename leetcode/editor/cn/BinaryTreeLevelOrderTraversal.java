@@ -33,16 +33,35 @@ package editor.cn;//给你二叉树的根节点 root ，返回其节点值的 �
 // 
 // Related Topics 树 广度优先搜索 二叉树 👍 1170 👎 0
 
+import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
+import java.util.concurrent.LinkedTransferQueue;
+import java.util.zip.InflaterInputStream;
+
+import static java.lang.Math.log;
 
 //Java：|102|二叉树的层序遍历|BinaryTreeLevelOrderTraversal|
 public class BinaryTreeLevelOrderTraversal{
     public static void main(String[] args) {
         Solution solution = new BinaryTreeLevelOrderTraversal().new Solution();
         // TO TEST
+        TreeNode root = new TreeNode(3);
+        TreeNode root_static = root;
+        root.left = new TreeNode(9);
+        root.right = new TreeNode(20);
+        root = root.right;
+        root.left = new TreeNode(15);
+        root.right = new TreeNode(7);
+        for(List<Integer> i : solution.levelOrder(root_static)){
+            for(Integer j : i){
+                System.out.print(j + " ");
+            }
+            System.out.println();
+        }
     }
-      public class TreeNode {
+      public static class TreeNode {
           int val;
           TreeNode left;
           TreeNode right;
@@ -78,11 +97,35 @@ public class BinaryTreeLevelOrderTraversal{
  * }
  */
 class Solution {
+
+
     public List<List<Integer>> levelOrder(TreeNode root) {
-        return null;
+        if(root ==  null)
+            return new ArrayList<List<Integer>>();
+        List<List<Integer>> lists = new ArrayList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            List<Integer> list = new ArrayList<>();
+            for (int i = 0; i < size; i++) {
+                TreeNode remove = queue.poll();
+                if(remove.left != null)
+                    queue.add(remove.left);
+                if(remove.right != null)
+                    queue.add(remove.right);
+
+                list.add(remove.val);
+            }
+            lists.add(list);
+        }
+        return lists;
     }
 
+
+
 }
+
 //leetcode submit region end(Prohibit modification and deletion)
 
 }

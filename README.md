@@ -8,11 +8,14 @@
 |  4  | 寻找两个正序数组的中位数 |          MedianOfTwoSortedArrays          |                   |
 |20|有效的括号|ValidParentheses|       栈配对符号       |     简单     |
 |21|合并两个有序链表|MergeTwoSortedLists|        递归         |     不会     |
+|33|搜索旋转排序数组|SearchInRotatedSortedArray|遍历|简单|
+|34|在排序数组中查找元素的第一个和最后一个位置|FindFirstAndLastPositionOfElementInSortedArray|二分|简单|
 |36|有效的数独|ValidSudoku|        数组         |     简单     |
 |  53  |       最大子数组和       |              MaximumSubarray              |       动态规划        |
 |  69  |         sqrt(x)         |                   sqrtx                   |                   |
 |  70  |          爬楼梯          |               ClimbingStairs               |     可以简化成斐波拉契     |
 |73|矩阵置零|SetMatrixZeroes|        数组         |     简单     |
+|74|搜索二维矩阵|SearchA2dMatrix|二维数组,双重二分|简单|
 |83|删除排序链表中的重复元素|RemoveDuplicatesFromSortedList|       单链表遍历       |     简单     |
 |  88  |     合并两个有序数组     |              MergeSortedArray              |                   |
 |94|二叉树的中序遍历|BinaryTreeInorderTraversal|      中序遍历二叉树      |     背      |
@@ -53,6 +56,7 @@
 |1414|和为 K 的最少斐波那契数字数目|FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK|       求斐波拉契       |     简单     |
 |1447|最简分数|SimplifiedFractions|        模拟         |     简单     |
 | 1688 |     比赛中的配对次数     |         tchesInToCountOfMaurnament         |      简单的数学计算      |
+|1706|球会落何处|WhereWillTheBallFall|动态规划|简单|
 |1725|可以形成最大正方形的矩形数目|NumberOfRectanglesThatCanFormTheLargestSquare|        模拟         |     简单     |
 |1763|最长的美好子字符串|LongestNiceSubstring|        位运算        |     难      |
 |1765|地图中的最高点|MapOfHighestPeak|   BFS,DFS,动态规划    |
