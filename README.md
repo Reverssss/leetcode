@@ -6,6 +6,7 @@
 |  1  |         两数之和         |                   TwoSum                   |        map        |
 |  3  |   无重复字符的最长子串   | LongestSubstringWithoutRepeatingCharacters |                   |
 |  4  | 寻找两个正序数组的中位数 |          MedianOfTwoSortedArrays          |                   |
+|6|Z 字形变换|ZigzagConversion|字符串,数学|简单|
 |20|有效的括号|ValidParentheses|       栈配对符号       |     简单     |
 |21|合并两个有序链表|MergeTwoSortedLists|        递归         |     不会     |
 |33|搜索旋转排序数组|SearchInRotatedSortedArray|遍历|简单|
@@ -38,7 +39,9 @@
 |383|赎金信|RansomNote|      字符串,字典       |     简单     |
 |387|字符串中的第一个唯一字符|FirstUniqueCharacterInAString|      字符串,字典       |     简单     |
 | 509 |        斐波那契数        |              FibonacciNumber              |       动态规划        |
+|537|复数乘法|ComplexNumberMultiplication|正则|中等|
 |540|有序数组中的单一元素|SingleElementInASortedArray|对分|     简单     |
+|553|最优除法|OptimalDivision|数学,算法|简单|
 |566|重塑矩阵|ReshapeTheMatrix|       数据结构        |     简单     |
 |688|骑士在棋盘上的概率|KnightProbabilityInChessboard|动态规划| 一开始迭代超时换方法 |
 |717|1比特与2比特字符|OneBitAnd2BitCharacters|数组,模拟|简单|
@@ -66,4 +69,5 @@
 |2000|反转单词前缀|ReversePrefixOfWord|        字符串        |     简单     |
 |2006|差的绝对值为 K 的数对数目|CountNumberOfPairsWithAbsoluteDifferenceK|      模拟,哈希表       |     简单     |
 | 2013 |        检测正方形        |                DetectSquar                |      map的应用       |
+|2016|增量元素之间的最大差值|MaximumDifferenceBetweenIncreasingElements|数组,遍历|简单|
 | 2047 |    句子中的有效单词数    |       NumberOfValidWordsInASentence       |                   |
