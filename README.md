@@ -34,6 +34,7 @@
 | 217 |       存在重复元素       |             ContainsDuplicate             |       数据结构        |
 |232|用栈实现队列|ImplementQueueUsingStacks|     用两个栈实现队列      |     简单     |
 |242|有效的字母异位词|ValidAnagram|    字符串,HashMap    |     简单     |
+|258|各位相加|AddDigits|数学|简单|
 |283|移动零|MoveZeroes|数组,双指针|简单|
 |350|两个数组的交集 II|IntersectionOfTwoArraysIi|
 |383|赎金信|RansomNote|      字符串,字典       |     简单     |
