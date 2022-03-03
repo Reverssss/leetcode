@@ -12,6 +12,7 @@
 |33|搜索旋转排序数组|SearchInRotatedSortedArray|遍历|简单|
 |34|在排序数组中查找元素的第一个和最后一个位置|FindFirstAndLastPositionOfElementInSortedArray|二分|简单|
 |36|有效的数独|ValidSudoku|        数组         |     简单     |
+|38|外观数列|CountAndSay|字符串,迭代|简单|
 |  53  |       最大子数组和       |              MaximumSubarray              |       动态规划        |
 |  69  |         sqrt(x)         |                   sqrtx                   |                   |
 |  70  |          爬楼梯          |               ClimbingStairs               |     可以简化成斐波拉契     |
@@ -72,3 +73,4 @@
 | 2013 |        检测正方形        |                DetectSquar                |      map的应用       |
 |2016|增量元素之间的最大差值|MaximumDifferenceBetweenIncreasingElements|数组,遍历|简单|
 | 2047 |    句子中的有效单词数    |       NumberOfValidWordsInASentence       |                   |
+|2104|子数组范围和|SumOfSubarrayRanges|数组,暴力|简单|
