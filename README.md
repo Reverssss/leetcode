@@ -9,6 +9,7 @@
 |6|Z 字形变换|ZigzagConversion|字符串,数学|简单|
 |20|有效的括号|ValidParentheses|       栈配对符号       |     简单     |
 |21|合并两个有序链表|MergeTwoSortedLists|        递归         |     不会     |
+|27|移除元素|RemoveElement|双指针,数组|简单|
 |33|搜索旋转排序数组|SearchInRotatedSortedArray|遍历|简单|
 |34|在排序数组中查找元素的第一个和最后一个位置|FindFirstAndLastPositionOfElementInSortedArray|二分|简单|
 |36|有效的数独|ValidSudoku|        数组         |     简单     |
@@ -41,6 +42,7 @@
 |383|赎金信|RansomNote|      字符串,字典       |     简单     |
 |387|字符串中的第一个唯一字符|FirstUniqueCharacterInAString|      字符串,字典       |     简单     |
 | 509 |        斐波那契数        |              FibonacciNumber              |       动态规划        |
+|521|最长特殊序列 Ⅰ|LongestUncommonSubsequenceI|字符串|简单|
 |537|复数乘法|ComplexNumberMultiplication|正则|中等|
 |540|有序数组中的单一元素|SingleElementInASortedArray|对分|     简单     |
 |553|最优除法|OptimalDivision|数学,算法|简单|
