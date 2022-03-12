@@ -11,10 +11,12 @@
 |21|合并两个有序链表|MergeTwoSortedLists|        递归         |     不会     |
 |27|移除元素|RemoveElement|      双指针,数组       |简单|
 |28|实现 strStr()|ImplementStrstr|       KMP算法       |中等|
+|30|串联所有单词的子串|SubstringWithConcatenationOfAllWords|滑动窗口|中等|
 |33|搜索旋转排序数组|SearchInRotatedSortedArray|        遍历         |简单|
 |34|在排序数组中查找元素的第一个和最后一个位置|FindFirstAndLastPositionOfElementInSortedArray|        二分         |简单|
 |36|有效的数独|ValidSudoku|        数组         |     简单     |
 |38|外观数列|CountAndSay|      字符串,迭代       |简单|
+|41|缺失的第一个正数|FirstMissingPositive|桶排|简单|
 |  53  |       最大子数组和       |              MaximumSubarray              |       动态规划        |
 |  69  |         sqrt(x)         |                   sqrtx                   |                   |
 |  70  |          爬楼梯          |               ClimbingStairs               |     可以简化成斐波拉契     |
@@ -42,6 +44,7 @@
 |350|两个数组的交集 II|IntersectionOfTwoArraysIi|
 |383|赎金信|RansomNote|      字符串,字典       |     简单     |
 |387|字符串中的第一个唯一字符|FirstUniqueCharacterInAString|      字符串,字典       |     简单     |
+|393|UTF-8 编码验证|Utf8Validation|位运算|简单|
 |504|七进制数|Base7|       进制转换        |简单|
 | 509 |        斐波那契数        |              FibonacciNumber              |       动态规划        |
 |521|最长特殊序列 Ⅰ|LongestUncommonSubsequenceI|        字符串        |简单|
