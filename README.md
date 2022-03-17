@@ -7,6 +7,7 @@
 |  3  |   无重复字符的最长子串   | LongestSubstringWithoutRepeatingCharacters |                   |
 |  4  | 寻找两个正序数组的中位数 |          MedianOfTwoSortedArrays          |                   |
 |6|Z 字形变换|ZigzagConversion|      字符串,数学       |简单|
+|7|整数反转|ReverseInteger|数学|简单|
 |20|有效的括号|ValidParentheses|       栈配对符号       |     简单     |
 |21|合并两个有序链表|MergeTwoSortedLists|        递归         |     不会     |
 |27|移除元素|RemoveElement|      双指针,数组       |简单|
@@ -52,6 +53,7 @@
 |540|有序数组中的单一元素|SingleElementInASortedArray|        对分         |     简单     |
 |553|最优除法|OptimalDivision|       数学,算法       |简单|
 |566|重塑矩阵|ReshapeTheMatrix|       数据结构        |     简单     |
+|599|两个列表的最小索引总和|MinimumIndexSumOfTwoLists|哈希表|简单|
 |688|骑士在棋盘上的概率|KnightProbabilityInChessboard|       动态规划        | 一开始迭代超时换方法 |
 |717|1比特与2比特字符|OneBitAnd2BitCharacters|       数组,模拟       |简单|
 |740|删除并获得点数|DeleteAndEarn|       动态规划        |     难      |
