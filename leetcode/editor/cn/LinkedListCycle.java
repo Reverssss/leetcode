@@ -72,10 +72,10 @@ public class LinkedListCycle{
     //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * Definition for singly-linked list.
- * class ListNode {
+ * class editor.cn.ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode(int x) {
+ *     editor.cn.ListNode next;
+ *     editor.cn.ListNode(int x) {
  *         val = x;
  *         next = null;
  *     }

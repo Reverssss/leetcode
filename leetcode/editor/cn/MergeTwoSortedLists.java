@@ -40,8 +40,8 @@ public class MergeTwoSortedLists{
         Solution solution = new MergeTwoSortedLists().new Solution();
         // TO TEST
         ListNode l1 = new ListNode(5);
-/*        l1.next = new ListNode(2);
-        l1.next.next = new ListNode(4);*/
+/*        l1.next = new editor.cn.ListNode(2);
+        l1.next.next = new editor.cn.ListNode(4);*/
 
         ListNode l2 = new ListNode(1);
         l2.next = new ListNode(2);
@@ -75,12 +75,12 @@ public class MergeTwoSortedLists{
     //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class editor.cn.ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     editor.cn.ListNode next;
+ *     editor.cn.ListNode() {}
+ *     editor.cn.ListNode(int val) { this.val = val; }
+ *     editor.cn.ListNode(int val, editor.cn.ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
