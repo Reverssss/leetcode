@@ -39,6 +39,7 @@
 |111|二叉树的最小深度|MinimumDepthOfBinaryTree|遍历二叉树|
 |112|路径总和|PathSum|遍历二叉树|
 | 118  |         杨辉三角          |                 PascalsTriangle                 |        数组         |     简单     |
+|119|杨辉三角 II|PascalsTriangleIi|
 | 121  |       买卖股票的最佳时机       |            BestTimeToBuyAndSellStock            | 只交易一次,找出极小值,再找极大值 |
 |125|验证回文串|ValidPalindrome|双指针|
 |136|只出现一次的数字|SingleNumber|异或|
@@ -54,6 +55,7 @@
 | 217  |        存在重复元素         |                ContainsDuplicate                |       数据结构        |
 | 232  |        用栈实现队列         |            ImplementQueueUsingStacks            |     用两个栈实现队列      |     简单     |
 | 242  |       有效的字母异位词        |                  ValidAnagram                   |    字符串,HashMap    |     简单     |
+|257|二叉树的所有路径|BinaryTreePaths|二叉树遍历|
 | 258  |         各位相加          |                    AddDigits                    |        数学         |简单|
 | 283  |          移动零          |                   MoveZeroes                    |      数组,双指针       |简单|
 |326|3 的幂|PowerOfThree|
@@ -62,6 +64,7 @@
 | 383  |          赎金信          |                   RansomNote                    |      字符串,字典       |     简单     |
 | 387  |     字符串中的第一个唯一字符      |          FirstUniqueCharacterInAString          |      字符串,字典       |     简单     |
 | 393  |      UTF-8 编码验证       |                 Utf8Validation                  |位运算|简单|
+|401|二进制手表|BinaryWatch|枚举|
 |404|左叶子之和|SumOfLeftLeaves|二叉树遍历|
 | 504  |         七进制数          |                      Base7                      |       进制转换        |简单|
 | 509  |         斐波那契数         |                 FibonacciNumber                 |       动态规划        |
@@ -91,6 +94,9 @@
 | 1380 |        矩阵中的幸运数        |              LuckyNumbersInAMatrix              |       行列映射        |     简单     |
 | 1414 |   和为 K 的最少斐波那契数字数目    |FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK|       求斐波拉契       |     简单     |
 | 1447 |         最简分数          |               SimplifiedFractions               |        模拟         |     简单     |
+|1663|具有给定数值的最小字符串|SmallestStringWithAGivenNumericValue|贪心|
+|1664|生成平衡数组的方案数|WaysToMakeAFairArray|动态规划|
+|1669|合并两个链表|MergeInBetweenLinkedLists|单链表|
 | 1688 |       比赛中的配对次数        |           tchesInToCountOfMaurnament            |      简单的数学计算      |
 | 1706 |         球会落何处         |              WhereWillTheBallFall               |       动态规划        |简单|
 | 1725 |    可以形成最大正方形的矩形数目     |  NumberOfRectanglesThatCanFormTheLargestSquare  |        模拟         |     简单     |
@@ -115,8 +121,17 @@
 |2236|判断根结点是否等于子结点之和|RootEqualsSumOfChildren|模拟|
 | 2293 |        极大极小游戏         |                   MinMaxGame                    |
 |2299|强密码检验器 II|StrongPasswordCheckerIi|正则|
+|2303|计算应缴税款总额|CalculateAmountPaidInTaxes|模拟|
+|2309|兼具大小写的最好英文字母|GreatestEnglishLetterInUpperAndLowerCase|
+|2315|统计星号|CountAsterisks|模拟|
+|2319|判断矩阵是否是一个 X 矩阵|CheckIfMatrixIsXMatrix|数组|
+|2413|最小偶倍数|SmallestEvenMultiple|数学|
+|2441|与对应负数同时存在的最大正整数|LargestPositiveIntegerThatExistsWithItsNegative|哈希表|
+|2460|对数组执行操作|ApplyOperationsToAnArray|模拟|
+|2469|温度转换|ConvertTheTemperature|模拟|
 |面试题 02.06|回文链表|PalindromeLinkedListLcci|
 |面试题 08.10|颜色填充|ColorFillLcci|深度优先搜索|
+|面试题 16.07|最大数值|MaximumLcci|
 |面试题 17.04|消失的数字|MissingNumberLcci|桶排|
 |面试题61|扑克牌中的顺子|BuKePaiZhongDeShunZiLcof|排序|
 |剑指 Offer 05|替换空格|TiHuanKongGeLcof|jdk|
