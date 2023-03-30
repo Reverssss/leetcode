@@ -103,6 +103,7 @@
 |       1414       |   和为 K 的最少斐波那契数字数目    | FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK |       求斐波拉契       |                                        简单                                         |
 |       1447       |         最简分数          |                SimplifiedFractions                |        模拟         |                                        简单                                         |
 |1625|执行操作后字典序最小的字符串|LexicographicallySmallestStringAfterApplyingOperations|广度优先|
+|1637|两点之间不包含任何点的最宽垂直区域|WidestVerticalAreaBetweenTwoPointsContainingNoPoints|排序|简单|
 |       1663       |     具有给定数值的最小字符串      |       SmallestStringWithAGivenNumericValue        |        贪心         |
 |       1664       |      生成平衡数组的方案数       |               WaysToMakeAFairArray                |       动态规划        |
 |       1669       |        合并两个链表         |             MergeInBetweenLinkedLists             |        单链表        |
