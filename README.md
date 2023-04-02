@@ -91,19 +91,20 @@
 |       969        |         煎饼排序          |                  PancakeSorting                   |       贪心,数组       |                                        简单                                         |
 |       1001       |         网格照明          |                 GridIllumination                  |      哈希表,线映射      |                                        简单                                         |
 |       1020       |         飞地的数量         |                 NumberOfEnclaves                  |     深度优先,二维数组     |                                        简单                                         |
+|1053|交换一次的先前排列|PreviousPermutationWithOneSwap|贪心|                                        普通                                         |
 |       1071       |       字符串的最大公因子       |          GreatestCommonDivisorOfStrings           |
 |       1078       |       Bigram 分词       |              OccurrencesAfterBigram               |
 |       1137       |      第 N 个泰波那契数       |                NThTribonacciNumber                |       动态规划        |
 |       1189       |      “气球” 的最大数量       |              MaximumNumberOfBalloons              |        模拟         |                                        简单                                         |
 |       1219       |         黄金矿工          |                PathWithMaximumGold                |      回溯,dfs       |                                         难                                         |
 |       1237       |      找出给定方程的正整数解      |   FindPositiveIntegerSolutionForAGivenEquation    |        暴力         |
-|1326|灌溉花园的最少水龙头数目|MinimumNumberOfTapsToOpenToWaterAGarden|动态规划，贪心|困难|
+|1326|灌溉花园的最少水龙头数目|MinimumNumberOfTapsToOpenToWaterAGarden|动态规划，贪心|                                        困难                                         |
 |       1342       |     将数字变成 0 的操作次数     |        NumberOfStepsToReduceANumberToZero         |        模拟         |                                        简单                                         |
 |       1380       |        矩阵中的幸运数        |               LuckyNumbersInAMatrix               |       行列映射        |                                        简单                                         |
 |       1414       |   和为 K 的最少斐波那契数字数目    | FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK |       求斐波拉契       |                                        简单                                         |
 |       1447       |         最简分数          |                SimplifiedFractions                |        模拟         |                                        简单                                         |
 |1625|执行操作后字典序最小的字符串|LexicographicallySmallestStringAfterApplyingOperations|广度优先|
-|1637|两点之间不包含任何点的最宽垂直区域|WidestVerticalAreaBetweenTwoPointsContainingNoPoints|排序|简单|
+|1637|两点之间不包含任何点的最宽垂直区域|WidestVerticalAreaBetweenTwoPointsContainingNoPoints|排序|                                        简单                                         |
 |       1663       |     具有给定数值的最小字符串      |       SmallestStringWithAGivenNumericValue        |        贪心         |
 |       1664       |      生成平衡数组的方案数       |               WaysToMakeAFairArray                |       动态规划        |
 |       1669       |        合并两个链表         |             MergeInBetweenLinkedLists             |        单链表        |
@@ -146,7 +147,7 @@
 |       2341       |       数组能形成多少数对       |            MaximumNumberOfPairsInArray            |        桶排         |
 |2347|最好的扑克手牌|BestPokerHand|        桶排         |
 |2363|合并相似的物品|MergeSimilarItems|哈希表|
-|2367|算术三元组的数目|NumberOfArithmeticTriplets|双指针|简单|
+|2367|算术三元组的数目|NumberOfArithmeticTriplets|双指针|                                        简单                                         |
 |       2413       |         最小偶倍数         |               SmallestEvenMultiple                |        数学         |
 |2425|所有数对的异或和|BitwiseXorOfAllPairings|数学|
 |       2441       |    与对应负数同时存在的最大正整数    |  LargestPositiveIntegerThatExistsWithItsNegative  |        哈希表        |
