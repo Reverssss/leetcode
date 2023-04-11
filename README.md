@@ -98,6 +98,7 @@
 |       1071       |       字符串的最大公因子       |          GreatestCommonDivisorOfStrings           |
 |       1078       |       Bigram 分词       |              OccurrencesAfterBigram               |
 |       1137       |      第 N 个泰波那契数       |                NThTribonacciNumber                |       动态规划        |
+|1147|段式回文|LongestChunkedPalindromeDecomposition|贪心|
 |       1189       |      “气球” 的最大数量       |              MaximumNumberOfBalloons              |        模拟         |                                        简单                                         |
 |       1219       |         黄金矿工          |                PathWithMaximumGold                |      回溯,dfs       |                                         难                                         |
 |       1237       |      找出给定方程的正整数解      |   FindPositiveIntegerSolutionForAGivenEquation    |        暴力         |
