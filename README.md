@@ -21,6 +21,7 @@
 |        36        |         有效的数独         |                    ValidSudoku                    |        数组         |                                        简单                                         |
 |        38        |         外观数列          |                    CountAndSay                    |      字符串,迭代       |                                        简单                                         |
 |        41        |       缺失的第一个正数        |               FirstMissingPositive                |        桶排         |                                        简单                                         |
+|48|旋转图像|RotateImage|数学|
 |        49        |        字母异位词分组        |                   GroupAnagrams                   |
 |50|Pow(x, n)|PowxN|
 |        53        |        最大子数组和         |                  MaximumSubarray                  |       动态规划        |
