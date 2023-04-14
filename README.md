@@ -33,6 +33,7 @@
 |        73        |         矩阵置零          |                  SetMatrixZeroes                  |        数组         |                                        简单                                         |
 |        74        |        搜索二维矩阵         |                  SearchA2dMatrix                  |     二维数组,双重二分     |                                        简单                                         |
 |        83        |     删除排序链表中的重复元素      |          RemoveDuplicatesFromSortedList           |       单链表遍历       |                                        简单                                         |
+|86|分隔链表|PartitionList|单链表|
 |        88        |       合并两个有序数组        |                 MergeSortedArray                  |                   |
 |        94        |       二叉树的中序遍历        |            BinaryTreeInorderTraversal             |      中序遍历二叉树      |                                         背                                         |
 |       100        |         相同的树          |                     SameTree                      |        遍历树        |
