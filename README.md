@@ -45,6 +45,7 @@
 |       118        |         杨辉三角          |                  PascalsTriangle                  |        数组         |                                        简单                                         |
 |       119        |        杨辉三角 II        |                 PascalsTriangleIi                 |
 |       121        |       买卖股票的最佳时机       |             BestTimeToBuyAndSellStock             | 只交易一次,找出极小值,再找极大值 |
+|122|买卖股票的最佳时机 II|BestTimeToBuyAndSellStockIi|动态规划|简单|
 |       125        |         验证回文串         |                  ValidPalindrome                  |        双指针        |
 |       136        |       只出现一次的数字        |                   SingleNumber                    |        异或         |
 |       141        |         环形链表          |                  LinkedListCycle                  |    判断循环链表,快慢指针    |                                        简单                                         |
