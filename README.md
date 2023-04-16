@@ -10,6 +10,7 @@
 |        5         |        最长回文子串         |            LongestPalindromicSubstring            |
 |        6         |        Z 字形变换         |                 ZigzagConversion                  |      字符串,数学       |                                        简单                                         |
 |        7         |         整数反转          |                  ReverseInteger                   |        数学         |                                        简单                                         |
+|8|字符串转换整数 (atoi)|StringToIntegerAtoi|
 |15|三数之和|ThreeSum|双指针|
 |        20        |         有效的括号         |                 ValidParentheses                  |       栈配对符号       |                                        简单                                         |
 |        21        |       合并两个有序链表        |                MergeTwoSortedLists                |        递归         |                                        不会                                         |
