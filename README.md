@@ -12,6 +12,7 @@
 |        7         |         整数反转          |                  ReverseInteger                   |        数学         |                                        简单                                         |
 |8|字符串转换整数 (atoi)|StringToIntegerAtoi|
 |15|三数之和|ThreeSum|双指针|
+|19|删除链表的倒数第 N 个结点|RemoveNthNodeFromEndOfList|单链表,双指针|简单|
 |        20        |         有效的括号         |                 ValidParentheses                  |       栈配对符号       |                                        简单                                         |
 |        21        |       合并两个有序链表        |                MergeTwoSortedLists                |        递归         |                                        不会                                         |
 |        27        |         移除元素          |                   RemoveElement                   |      双指针,数组       |                                        简单                                         |
