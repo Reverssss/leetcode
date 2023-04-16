@@ -66,6 +66,7 @@
 |       258        |         各位相加          |                     AddDigits                     |        数学         |                                        简单                                         |
 |       283        |          移动零          |                    MoveZeroes                     |      数组,双指针       |                                        简单                                         |
 |       326        |         3 的幂          |                   PowerOfThree                    |
+|344|反转字符串|ReverseString|简单|
 |       350        |      两个数组的交集 II       |             IntersectionOfTwoArraysIi             |
 |367|有效的完全平方数|ValidPerfectSquare|
 |       374        |         猜数字大小         |             GuessNumberHigherOrLower              |
