@@ -55,6 +55,7 @@
 |       141        |         环形链表          |                  LinkedListCycle                  |    判断循环链表,快慢指针    |                                        简单                                         |
 |       144        |       二叉树的前序遍历        |            BinaryTreePreorderTraversal            |      前序遍历二叉树      |                                         背                                         |
 |       145        |       二叉树的后序遍历        |           BinaryTreePostorderTraversal            |      后序遍历二叉树      |                                         背                                         |
+|155|最小栈|MinStack|模拟|简单|
 |       167        |   两数之和 II - 输入有序数组    |            TwoSumIiInputArrayIsSorted             |       有序数组        |                                        简单                                         |
 |169|多数元素|MajorityElement|
 |       198        |         打家劫舍          |                    HouseRobber                    |       动态规划        |                                        简单                                         |
