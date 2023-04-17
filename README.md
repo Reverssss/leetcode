@@ -103,6 +103,7 @@
 |       969        |         煎饼排序          |                  PancakeSorting                   |       贪心,数组       |                                        简单                                         |
 |       1001       |         网格照明          |                 GridIllumination                  |      哈希表,线映射      |                                        简单                                         |
 |       1020       |         飞地的数量         |                 NumberOfEnclaves                  |     深度优先,二维数组     |                                        简单                                         |
+|1026|节点与其祖先之间的最大差值|MaximumDifferenceBetweenNodeAndAncestor|二叉树,深度遍历|简单|
 |1041|困于环中的机器人|RobotBoundedInCircle|模拟|
 |1053|交换一次的先前排列|PreviousPermutationWithOneSwap|贪心|                                        普通                                         |
 |       1071       |       字符串的最大公因子       |          GreatestCommonDivisorOfStrings           |
