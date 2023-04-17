@@ -77,6 +77,7 @@
 |367|有效的完全平方数|ValidPerfectSquare|
 |       374        |         猜数字大小         |             GuessNumberHigherOrLower              |
 |       383        |          赎金信          |                    RansomNote                     |      字符串,字典       |                                        简单                                         |
+|384|打乱数组|ShuffleAnArray|模拟|简单|
 |       387        |     字符串中的第一个唯一字符      |           FirstUniqueCharacterInAString           |      字符串,字典       |                                        简单                                         |
 |       389        |          找不同          |                 FindTheDifference                 |        桶排         |
 |       393        |      UTF-8 编码验证       |                  Utf8Validation                   |        位运算        |                                        简单                                         |
