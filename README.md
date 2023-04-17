@@ -40,6 +40,7 @@
 |        94        |       二叉树的中序遍历        |            BinaryTreeInorderTraversal             |      中序遍历二叉树      |                                         背                                         |
 |98|验证二叉搜索树|ValidateBinarySearchTree|二叉线索树|简单|
 |       100        |         相同的树          |                     SameTree                      |        遍历树        |
+|101|对称二叉树|SymmetricTree|二叉树|简单|
 |       102        |       二叉树的层序遍历        |           BinaryTreeLevelOrderTraversal           |       层序遍历        |                                         背                                         |
 |       104        |       二叉树的最大深度        |             MaximumDepthOfBinaryTree              |       遍历二叉树       |
 |       108        |     将有序数组转换为二叉搜索树     |       ConvertSortedArrayToBinarySearchTree        |

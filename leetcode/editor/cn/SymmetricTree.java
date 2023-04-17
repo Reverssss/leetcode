@@ -69,41 +69,21 @@ public class SymmetricTree{
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        LinkedList<Integer> preList = new LinkedList<>();
-        LinkedList<Integer> lateList = new LinkedList<>();
+        return isSymmetricSub(root.left,root.right);
+    }
 
-        pre(root,preList);
-        late(root,lateList);
-
-        while (preList.size() > 0 && lateList.size()>0){
-            if(preList.getFirst() == lateList.getFirst()){
-                preList.removeFirst();
-                lateList.removeFirst();
-            }else {return false;}
-        }
-        if(preList.size() == 0 && lateList.size() == 0){
+    public boolean isSymmetricSub(TreeNode left,TreeNode right) {
+        if(left == null && right == null) {
             return true;
-        }else {
+        }else if((left == null || right == null) || (left.val != right.val)){
             return false;
+        }else {
+            return isSymmetricSub(left.left,right.right)&&isSymmetricSub(left.right,right.left);
         }
+
     }
 
-    private void pre(TreeNode root,LinkedList preList){
-        if(root.left!= null){pre(root.left,preList);}
-        else preList.add(-1);
-        if(root.right!=null){pre(root.right,preList);}
-        else preList.add(-1);
-        preList.add(root.val);
-    }
 
-    private void late(TreeNode root, LinkedList lateList){
-        if(root.left!= null){pre(root.left,lateList);}
-        else lateList.add(-1);
-        if(root.right!=null){pre(root.right,lateList);}
-        else lateList.add(-1);
-
-        lateList.add(root.val);
-    }
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
