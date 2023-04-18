@@ -58,6 +58,7 @@
 |       155        |          最小栈          |                        MinStack                        |        模拟         |                                        简单                                         |
 |       167        |   两数之和 II - 输入有序数组    |               TwoSumIiInputArrayIsSorted               |       有序数组        |                                        简单                                         |
 |       169        |         多数元素          |                    MajorityElement                     |
+|190|颠倒二进制位|ReverseBits|位运算|
 |191|位1的个数|NumberOf1Bits|位运算|
 |       198        |         打家劫舍          |                      HouseRobber                       |       动态规划        |                                        简单                                         |
 |       202        |          快乐数          |                      HappyNumber                       |
@@ -73,6 +74,7 @@
 |       242        |       有效的字母异位词        |                      ValidAnagram                      |    字符串,HashMap    |                                        简单                                         |
 |       257        |       二叉树的所有路径        |                    BinaryTreePaths                     |       二叉树遍历       |
 |       258        |         各位相加          |                       AddDigits                        |        数学         |                                        简单                                         |
+|268|丢失的数字|MissingNumber|
 |       283        |          移动零          |                       MoveZeroes                       |      数组,双指针       |                                        简单                                         |
 |       326        |         3 的幂          |                      PowerOfThree                      |
 |       344        |         反转字符串         |                     ReverseString                      |        简单         |
@@ -88,6 +90,7 @@
 |       404        |         左叶子之和         |                    SumOfLeftLeaves                     |       二叉树遍历       |
 |       405        |      数字转换为十六进制数       |              ConvertANumberToHexadecimal               |        数学         |
 |       412        |       Fizz Buzz       |                        FizzBuzz                        |        模拟         |                                        简单                                         |
+|461|汉明距离|HammingDistance|位运算|简单|
 |       504        |         七进制数          |                         Base7                          |       进制转换        |                                        简单                                         |
 |       509        |         斐波那契数         |                    FibonacciNumber                     |       动态规划        |
 |       521        |       最长特殊序列 Ⅰ        |              LongestUncommonSubsequenceI               |        字符串        |                                        简单                                         |
