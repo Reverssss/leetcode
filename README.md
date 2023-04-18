@@ -58,6 +58,7 @@
 |       155        |          最小栈          |                        MinStack                        |        模拟         |                                        简单                                         |
 |       167        |   两数之和 II - 输入有序数组    |               TwoSumIiInputArrayIsSorted               |       有序数组        |                                        简单                                         |
 |       169        |         多数元素          |                    MajorityElement                     |
+|191|位1的个数|NumberOf1Bits|位运算|
 |       198        |         打家劫舍          |                      HouseRobber                       |       动态规划        |                                        简单                                         |
 |       202        |          快乐数          |                      HappyNumber                       |
 |       203        |        移除链表元素         |                RemoveLinkedListElements                |       单链表递归       |                                        不会                                         |
