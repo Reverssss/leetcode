@@ -85,6 +85,7 @@
 |       401        |         二进制手表         |                    BinaryWatch                    |        枚举         |
 |       404        |         左叶子之和         |                  SumOfLeftLeaves                  |       二叉树遍历       |
 |405|数字转换为十六进制数|ConvertANumberToHexadecimal|数学|
+|412|Fizz Buzz|FizzBuzz|模拟|简单|
 |       504        |         七进制数          |                       Base7                       |       进制转换        |                                        简单                                         |
 |       509        |         斐波那契数         |                  FibonacciNumber                  |       动态规划        |
 |       521        |       最长特殊序列 Ⅰ        |            LongestUncommonSubsequenceI            |        字符串        |                                        简单                                         |
