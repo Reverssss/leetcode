@@ -171,6 +171,7 @@
 |       2319       |    判断矩阵是否是一个 X 矩阵     |                 CheckIfMatrixIsXMatrix                 |        数组         |
 |       2341       |       数组能形成多少数对       |              MaximumNumberOfPairsInArray               |        桶排         |
 |       2347       |        最好的扑克手牌        |                     BestPokerHand                      |        桶排         |
+|2352|相等行列对|EqualRowAndColumnPairs|模拟，hash|
 |       2363       |        合并相似的物品        |                   MergeSimilarItems                    |        哈希表        |
 |       2367       |       算术三元组的数目        |               NumberOfArithmeticTriplets               |        双指针        |                                        简单                                         |
 |       2413       |         最小偶倍数         |                  SmallestEvenMultiple                  |        数学         |
